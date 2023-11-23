@@ -23,7 +23,7 @@ Follow these steps to get your Node.js API Backend up and running:
 
 1. Clone this repository to your local development environment:
    ```bash 
-   git clone https://github.com/charbelfakhry/csis_228_70_fall_2024.git
+   git clone https://github.com/GhinaBouGhannam/schedularapp_CSIS228
    ```
 2. Install all dependencies 
  ```bash
@@ -75,7 +75,7 @@ appointments for the doctor.
 
 * `routes` Directory containing route files defining API endpoint mappings
      
-     Each API route file defines mappings between specific API endpoints , validator and controller functions. The file typically includes:
+     Each API route file defines mappings between specific API endpoints , validator and controller functions.
       
       1. Import statements for required modules, such as Express validators and controllers
 
