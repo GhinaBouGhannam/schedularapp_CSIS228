@@ -210,14 +210,13 @@ appointments for the doctor.
    1. Write the route : http://localhost:3001/api/users/insertUser
    2. Go to the body -> raw -> JSON
    3. Add JSON object as follow:
-    ```bash
-    {
+  ```bash  
     "user_name": "rayan",
     "password": "Rayan2003$",
     "user_email": "rayan@gmail.co",
     "user_description":  "dentist"
-    } 
-     ```
+  ```
+   
    4. Press `Send` to return the `user_id` as follow
      ```{ "user_id" : 1 }```
 
